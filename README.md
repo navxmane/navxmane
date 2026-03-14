@@ -25,7 +25,7 @@
 
 I am currently developing intelligent systems for industrial and biological applications:
 
-* **[Fruit Infection Classification](LINK_DO_PROJETO)**: An advanced Deep Learning project using **PyTorch** to classify bacterial infections in fruits. I'm currently working on evolving this model for **Instance Segmentation** (using YOLO/Mask R-CNN) to precisely locate and measure infected areas.
+* **[Fruit Infection Classification](https://github.com/navxmane/CNN_Plant_classification)**: An advanced Deep Learning project using **PyTorch** to classify bacterial infections in fruits. I'm currently working on evolving this model for **Instance Segmentation** (using YOLO/Mask R-CNN) to precisely locate and measure infected areas.
 * **[Simple Neural Network](https://github.com/navxmane/simple-neural-network-PyTorch)**: Implementation of a classic MLP architecture using the MNIST dataset to study fundamental backpropagation.
 
 ---

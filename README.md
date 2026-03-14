@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Gabriel Stockmann! 👋
 
-<!--
-**navxmane/navxmane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Control and Automation Engineering Student @ UFSC
 
-Here are some ideas to get you started:
+🎓 Currently pursuing my degree in **Control and Automation Engineering** at the Federal University of Santa Catarina.
+🎖️ Former student at **NPOR**, with a background in leadership and high-performance training.
+🌱 Specialized focus on **Machine Learning** and **Computer Vision** using Python.
+🇫🇷 French (A2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Deep Learning & Computer Vision Projects
+
+I am currently developing intelligent systems for industrial and biological applications:
+
+* **[Fruit Infection Classification](LINK_DO_PROJETO)**: An advanced Deep Learning project using **PyTorch** to classify bacterial infections in fruits. I'm currently working on evolving this model for **Instance Segmentation** (using YOLO/Mask R-CNN) to precisely locate and measure infected areas.
+* **[Simple Neural Network](LINK_DO_MNIST)**: Implementation of a classic MLP architecture using the MNIST dataset to study fundamental backpropagation.
+
+---
+
+### 🛠️ Development Environment
+
+My workflow is centered around efficiency and the Linux ecosystem:
+* **OS**: Linux (Mint)
+* **Editor**: Pycharm
+* **Shell**: Starship Prompt
+* **Version Control**: Git

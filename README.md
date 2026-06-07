@@ -46,7 +46,4 @@ My workflow is centered around efficiency and the Linux ecosystem:
 
 ### 📊 GitHub Stats & Skills
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=navxmane&show_icons=true&theme=tokyonight&count_private=true" alt="navxmane's GitHub stats" />
-</p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navxmane&show_icons=true&theme=tokyonight)

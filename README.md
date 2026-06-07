@@ -42,8 +42,4 @@ My workflow is centered around efficiency and the Linux ecosystem:
 * **Editor**: Pycharm
 * **Shell**: Starship Prompt
 
----
 
-### 📊 GitHub Stats & Skills
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=navxmane&show_icons=true&theme=tokyonight)

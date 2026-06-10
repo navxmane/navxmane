@@ -38,8 +38,8 @@ I am currently developing intelligent systems for industrial and biological appl
 ### 🛠️ Development Environment
 
 My workflow is centered around efficiency and the Linux ecosystem:
-* **OS**: Linux (Mint)
-* **Editor**: Pycharm
-* **Shell**: Starship Prompt
+* **OS**: Mint/Arch
+* **Editor**: Pycharm/VsCode
+* **Shell**: zsh
 
 
